@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+keihi
+</name>
+</assembly>
+<members>
+<member name="T:keihi.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:keihi.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:keihi.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:keihi.Form1.StartBtn_Click(System.Object,System.EventArgs)">
+ <summary>
+ 主処理を開始
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:keihi.Form1.FormCheck">
+ <summary>
+ 入力項目のチェック
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:keihi.Form1.InputProcess(System.String,System.String)">
+ <summary>
+ 経費明細に各項目を入力する
+ </summary>
+ <param name="day"></param>
+</member>
+<member name="M:keihi.Form1.Form1_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+ <summary>
+ chromeDriverとブラウザを閉じる
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:keihi.Form1.AcceptPopup">
+ <summary>
+ 二回目以降入力を行った際に表示されるページ再読み込みのポップアップをクリック
+ </summary>
+</member>
+</members>
+</doc>
