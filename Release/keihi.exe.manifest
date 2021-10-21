@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="keihi.exe" size="23440">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="keihi.exe" size="22928">
       <assemblyIdentity name="keihi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Xyl2FMxJmOWO3fOtAX4nJhbFZrhv4kkt823Qvpxrfzk=</dsig:DigestValue>
+        <dsig:DigestValue>Q52UXBpOWoEJ5Xw/J2rwBSqokFo23Ae3DvAjP1iZc6A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,26 +78,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="1783808">
-      <assemblyIdentity name="WebDriver" version="3.141.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="7836672">
+      <assemblyIdentity name="WebDriver" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DuYZsXhs9ZccD5xu4YWUl67LqTpJU8+S/qmY6O763zw=</dsig:DigestValue>
+        <dsig:DigestValue>97jsNhcXLOXqbwKpKXCY4km8zdglyDkMspqhbNpGcYo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.Support.dll" size="52224">
-      <assemblyIdentity name="WebDriver.Support" version="3.141.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.Support.dll" size="35328">
+      <assemblyIdentity name="WebDriver.Support" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tZun0M/+Q+cisTrXN89ZbwMHiLhrW1V8tHnwtpV8zoo=</dsig:DigestValue>
+        <dsig:DigestValue>4M2RAFYdfol2s3vnSMph/g1eQb+GrF0kb4qxIfqpN4s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
