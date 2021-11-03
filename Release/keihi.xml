@@ -53,5 +53,19 @@ keihi
  二回目以降入力を行った際に表示されるページ再読み込みのポップアップをクリック
  </summary>
 </member>
+<member name="M:keihi.Form1.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ 画面に入力する日付のリストに選択した日付を挿入する
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:keihi.Form1.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ 選択した日付を画面に入力する日付のリストから削除する
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
 </members>
 </doc>

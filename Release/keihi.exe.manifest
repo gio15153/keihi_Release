@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="keihi.exe" size="22928">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="keihi.exe" size="25600">
       <assemblyIdentity name="keihi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q52UXBpOWoEJ5Xw/J2rwBSqokFo23Ae3DvAjP1iZc6A=</dsig:DigestValue>
+        <dsig:DigestValue>pdGN2KnZoVqg9Zs5p4tdCHRFP0nAX2M/BW1hn8C+fZ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -101,6 +101,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="chromedriver.exe" size="11268096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>i6rSmz3Z2Ly+qDyQKAXubst3UDU+SsBJcGpFSO4D58c=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="keihi.exe.config" size="188">
     <hash>
       <dsig:Transforms>
