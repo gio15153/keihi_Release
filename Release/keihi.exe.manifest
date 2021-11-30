@@ -49,19 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pdGN2KnZoVqg9Zs5p4tdCHRFP0nAX2M/BW1hn8C+fZ4=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Selenium.dll" size="275968">
-      <assemblyIdentity name="Selenium" version="2.0.9.0" publicKeyToken="D499AB7F7BA4D827" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WoAEhmhx+THWviMuwaoC2dCKVuvZOioQPKQZ7CeqePc=</dsig:DigestValue>
+        <dsig:DigestValue>PrqNd0dpvldGAgvKJf6p4gXlANNdtuqewn9XPGsBPFg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="7836672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="7857664">
       <assemblyIdentity name="WebDriver" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>97jsNhcXLOXqbwKpKXCY4km8zdglyDkMspqhbNpGcYo=</dsig:DigestValue>
+        <dsig:DigestValue>Vdk4Y3igRreQ1d63IC0g7SQ+BCLanFm5uPLIJZm4ZsE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,19 +85,10 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4M2RAFYdfol2s3vnSMph/g1eQb+GrF0kb4qxIfqpN4s=</dsig:DigestValue>
+        <dsig:DigestValue>WLkmuM+hBSinjWxd9KWh5F+DerIW8+sZy78WwsH4v2o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="chromedriver.exe" size="11268096">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>i6rSmz3Z2Ly+qDyQKAXubst3UDU+SsBJcGpFSO4D58c=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="keihi.exe.config" size="188">
     <hash>
       <dsig:Transforms>
